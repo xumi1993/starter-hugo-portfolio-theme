@@ -1,7 +1,7 @@
 ---
 title: Mijian Xu (Mijian Xu)
 role: Research Fellow
-avatar_filename: 7437523.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 superuser: true
 status:
